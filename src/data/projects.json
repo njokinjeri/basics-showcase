@@ -1,0 +1,354 @@
+[
+  {
+    "title": "Rock Paper Scissors Game",
+    "description": "A simple game where users play rock–paper–scissors against the computer.",
+    "image": "/games/rock-paper-scissors.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Connect Four Game",
+    "description": "A digital version of the classic Connect Four strategy game.",
+    "image": "/games/connect-four-game.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Guess The Word Game",
+    "description": "A word-guessing challenge where users uncover hidden letters.",
+    "image": "/games/guess-the-word.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Tic Tac Toe Game",
+    "description": "A classic tic tac toe game played against another player or the computer.",
+    "image": "/games/tic-tac-toe.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Memory Game",
+    "description": "A card-matching memory challenge built with interactive UI logic.",
+    "image": "/games/memory-game.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Hangman Game",
+    "description": "A hangman word-guessing game with dynamic UI and animations.",
+    "image": "/games/hangman-game.webp",
+    "tags": ["game", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Password Generator App",
+    "description": "An app that generates secure passwords based on selected criteria.",
+    "image": "/utility/password-generator.webp",
+    "tags": ["tool", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "IP Address Tracker",
+    "description": "A tool that locates and displays information about an IP address on a map.",
+    "image": "/utility/ip-address-tracker.webp",
+    "tags": ["api", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Clock App",
+    "description": "A digital clock that shows time, day, and additional contextual info.",
+    "image": "/utility/clock-app.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Calculator App",
+    "description": "A basic calculator supporting standard arithmetic operations.",
+    "image": "/utility/calculator.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Pomodoro App",
+    "description": "A timer app that helps users manage work sessions using the Pomodoro technique.",
+    "image": "utility/pomodoro.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Age Calculator",
+    "description": "An app that calculates a user's age based on input date.",
+    "image": "utility/age-calculator.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Tips Calculator",
+    "description": "A tool for calculating tips and splitting bills.",
+    "image": "utility/tips-calculator.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Music Player Component",
+    "description": "An audio player with controls and track information.",
+    "image": "utility/music-player.webp",
+    "tags": ["component", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Text to Speech Component",
+    "description": "A component that converts user-typed text into speech.",
+    "image": "utility/text-to-speech.webp",
+    "tags": ["component", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Image Uploader Component",
+    "description": "A UI component that allows users to upload and preview images.",
+    "image": "utility/image-uploader.webp",
+    "tags": ["component", "javascript", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Alarado Landing Page",
+    "description": "A modern landing page built with clean, responsive design.",
+    "image": "landing-pages/alarado-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Hufie Landing Page",
+    "description": "A sleek landing page concept focusing on product presentation.",
+    "image": "landing-pages/hufie-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Manage Landing Page",
+    "description": "A product management landing page with responsive layouts.",
+    "image": "landing-pages/manage-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Space Tourism Multi-page",
+    "description": "A multi-page site about space tourism with dynamic navigation.",
+    "image": "landing-pages/space-tourism-page.webp",
+    "tags": ["multi-page", "dynamic"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Weather Landing Page",
+    "description": "A landing page that displays live weather data using an API.",
+    "image": "landing-pages/weather-landing-page.webp",
+    "tags": ["landing-page", "api", "dynamic"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Maker Launch Landing Page",
+    "description": "A launch page design showcasing a new digital product.",
+    "image": "landing-pages/maker-launch-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Fylo Landing Page",
+    "description": "A feature-rich landing page for a cloud storage service.",
+    "image": "landing-pages/fylo-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Huddle Landing Page",
+    "description": "A clean UI landing page for a community-building platform.",
+    "image": "landing-pages/huddle-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Ping Launch Page",
+    "description": "A subscription launch page featuring email validation.",
+    "image": "landing-pages/ping-launch-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Recipe Page",
+    "description": "A single recipe layout showing preparation steps and ingredients.",
+    "image": "landing-pages/recipe-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "FAQ Page",
+    "description": "A frequently-asked-questions section with interactive toggles.",
+    "image": "landing-pages/faq-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Article Listing Component",
+    "description": "A component that displays a list of articles with titles and summaries.",
+    "image": "ui-components/article-listing.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Feature Section Component",
+    "description": "A UI section highlighting key product features.",
+    "image": "ui-components/feature-section.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Product Listing Component",
+    "description": "A grid component that displays products with images and pricing.",
+    "image": "ui-components/product-listing.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Pricing Table Component",
+    "description": "A component showcasing subscription pricing tiers.",
+    "image": "ui-components/pricing-table.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Bento Box Component",
+    "description": "A bento grid layout used to showcase multiple UI sections.",
+    "image": "ui-components/bento-box-layout.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Subscription Checkout Component",
+    "description": "A checkout UI flow showing subscription details and payment summary.",
+    "image": "ui-components/subscription-checkout.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Chat App Illustration",
+    "description": "A visual UI concept of a chat application interface.",
+    "image": "ui-components/chat-app-illustration.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Newsletter Component",
+    "description": "An email subscription component with form validation.",
+    "image": "ui-components/newsletter.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Card Feature Component",
+    "description": "A feature card UI for presenting product highlights.",
+    "image": "ui-components/card-feature-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Data Storage Component",
+    "description": "A component displaying storage usage with visual indicators.",
+    "image": "ui-components/data-storage-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Bank Card Component",
+    "description": "A digital bank card UI component with modern styling.",
+    "image": "ui-components/bank-card-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Pricing Component",
+    "description": "A UI component showing pricing tiers for a service.",
+    "image": "ui-component/pricing-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Testimonial Component",
+    "description": "A testimonial card for showcasing user reviews.",
+    "image": "ui-component/testimonial-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Rating Card Component",
+    "description": "A rating UI component with stars and user feedback.",
+    "image": "ui-components/rating-card-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Social Links Component",
+    "description": "A component showing social media icons or profile links.",
+    "image": "ui-components/social-links-component.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Contact Page Component",
+    "description": "A standalone contact form component with validations.",
+    "image": "ui-components/contact-page.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  },
+  {
+    "title": "Social Proof Component",
+    "description": "A section showcasing customer stats, reviews, and trust signals.",
+    "image": "ui-components/social-proof-components.webp",
+    "tags": ["ui-component", "html", "css"],
+    "liveLink": "",
+    "sourceCode": ""
+  }
+]
