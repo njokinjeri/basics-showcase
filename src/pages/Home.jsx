@@ -1,7 +1,11 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router";
 import Navbar from "../components/Navbar";
 import ProjectCard from "../components/ProjectCard";
-import projects from "../data/projects.json"
+import projects from "../data/projects.json";
+import SocialLinks from "../components/SocialLinks";
+import {ArrowUpRight} from "lucide-react";
+
 
 const Home = () => {
   const [chunkSize, setChunkSize] = useState(2);
@@ -56,8 +60,17 @@ const Home = () => {
           ))}
       </section>
       <div className=" border m-8"></div>
-      <footer>
-        <h3>Basics <span>sandbox</span></h3>
+      <footer className="w-full p-8 mt-20 flex justify-between">
+        <h3 className="font-coiny text-6xl place-self-end">Basics <sub className="text-sm">sandbox</sub></h3>
+        <div className="flex flex-col gap-4 relative">
+          <Link to="/about" className="border p-4 flex">
+            About
+            <ArrowUpRight />
+          </Link>
+          <SocialLinks 
+            className="border p-4 flex cursor-pointer"
+          />
+        </div>
       </footer>
     </main>
   );
