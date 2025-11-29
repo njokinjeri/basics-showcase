@@ -54,8 +54,11 @@ const Home = () => {
                 })}
             </article>
           ))}
-          <div className="border"></div>
       </section>
+      <div className=" border m-8"></div>
+      <footer>
+        <h3>Basics <span>sandbox</span></h3>
+      </footer>
     </main>
   );
 }
