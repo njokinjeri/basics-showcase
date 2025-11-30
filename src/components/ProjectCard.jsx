@@ -2,30 +2,26 @@ import {FaGithub} from "react-icons/fa6";
 import {ArrowUpRight} from "lucide-react";
 
 const ProjectCard = ({ project }) => {
-    const {image, title, description, tags, liveLink, sourceCode } = project;
+    const {image, title, tags, liveLink} = project;
     return (
-        <div className="w-full h-36 bg-emerald-300 p-4  overflow-hidden">
-            <div className="">
+        <div className="w-full h-full flex flex-col gap-2 p-2 overflow-hidden">
+            <div className="h-5/6 lg:h-4/5">
                 <img 
                     src={image} 
                     alt={title}
-                    className="w-full h-full object-cover" 
+                    className="w-full h-full object-cover cursor-pointer" 
                     />
             </div>
-            <section className="">
-                <h2>{title}</h2>
-                <p>{description}</p>
-                <div>
+            <section className="flex justify-between">
+                <h2 className="font-montserrat text-base text-stone-300">{title}</h2>
+                <div className="hidden">
                     {tags?.map(tag => (
                         <span key={tag}> #{tag} </span>
                     ))}
                 </div>
                 <div>
-                    <a className="hover:text-blue-300 " href={sourceCode} target="_blank" title="Code">
-                        <FaGithub />
-                    </a>
                     <a href={liveLink} target="_blank">
-                        <ArrowUpRight className="hover:text-blue-300 fa-solid"/>
+                        <ArrowUpRight className="hover:text-(--coral-blue) fa-solid"/>
                     </a>
                 </div>
             </section>
