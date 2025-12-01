@@ -1,8 +1,8 @@
 import { NavLink } from "react-router";
-import Logo from "../components/Logo";
+import Logo from "./Logo";
 import SocialLinks from "./SocialLinks";
 
-const Navbar = () => {
+const NavBar = () => {
   return (
     <nav className="flex justify-between items-center p-6 mt-6">
         <Logo />
@@ -17,4 +17,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavBar;

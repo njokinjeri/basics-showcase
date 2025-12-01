@@ -9,10 +9,10 @@ const About = () => {
       <nav className="flex gap-4 justify-between px-6 py-12">
         <Logo /> 
         <SocialLinks 
-          className="pt-1.5 pr-10 text-stone-500"
+          className="px-10 py-20 text-stone-500"
         />
       </nav>
-      <div className="flex-1 px-8 py-12 w-full lg:w-5/6 flex flex-col gap-8 font-inter text-xl leading-9  text-stone-400">
+      <div className="flex-1 px-8 py-4 w-full lg:w-5/6 flex flex-col gap-8 font-inter text-xl leading-9  text-stone-400">
         <p>
             <a 
               href="http://" /** add home url */

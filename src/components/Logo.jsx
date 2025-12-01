@@ -5,10 +5,10 @@ const Logo = () => {
         <div>
             <Link to="/">
                 <img
-                    src="/logo/ladybug.png" 
+                    src="/logo/wall.svg" 
                     alt="Home" 
                     title="Home"
-                    className="h-8 w-auto"/>
+                    className="h-40 w-auto"/>
             </Link>
         </div>  
     );

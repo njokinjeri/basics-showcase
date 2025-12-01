@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router";
-import Navbar from "../components/Navbar";
+import NavBar from "../components/NavBar";
 import ProjectCard from "../components/ProjectCard";
 import projects from "../data/projects.json";
 import SocialLinks from "../components/SocialLinks";
@@ -33,7 +33,7 @@ const Home = () => {
 
     return (
       <main className="min-h-screen bg-zinc-950 text-white flex flex-col">
-        <Navbar />
+        <NavBar />
         <div className="px-8 mt-8 flex flex-col gap-4">
           <h1 className="w-64 text-6xl font-coiny hover:bg-linear-to-r from-(--coral-blue) to-(--faint-pink)
                           hover:bg-clip-text hover:text-transparent">Basics.</h1>
