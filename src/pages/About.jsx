@@ -15,9 +15,7 @@ const About = () => {
       <div className="flex-1 px-8 py-4 w-full lg:w-5/6 flex flex-col gap-8 font-inter text-xl leading-9  text-stone-400">
         <p>
             <a 
-              href="http://" /** add home url */
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/" 
               className="p-3 font-coiny text-5xl bg-linear-to-r from-(--coral-blue) to-(--faint-pink) bg-clip-text text-transparent"
           >
           Basics
