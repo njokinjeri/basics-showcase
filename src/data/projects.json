@@ -104,8 +104,8 @@
     "description": "An app that calculates a user's age based on input date.",
     "image": "/utility/age-calculator.webp",
     "tags": ["utility", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/age-calculator/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/age-calculator"
   },
   {
     "id": 13,
@@ -149,8 +149,8 @@
     "description": "A modern landing page built with clean, responsive design.",
     "image": "/landing-pages/alarado-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/alarado-homepage/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/alarado-homepage"
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "description": "A sleek landing page concept focusing on product presentation.",
     "image": "/landing-pages/hufie-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/hufie-homepage/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/hufie-homepage"
   },
   {
     "id": 19,
@@ -167,8 +167,8 @@
     "description": "A product management landing page with responsive layouts.",
     "image": "/landing-pages/manage-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/manage-landing-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/manage-landing-page"
   },
   {
     "id": 20,
@@ -176,8 +176,8 @@
     "description": "A multi-page site about space tourism with dynamic navigation.",
     "image": "/landing-pages/space-tourism-page.webp",
     "tags": ["multi-page", "dynamic"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/space-tourism-site/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/space-tourism-site"
   },
   {
     "id": 21,
@@ -194,8 +194,8 @@
     "description": "A launch page design showcasing a new digital product.",
     "image": "/landing-pages/maker-launch-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/maker-prelaunch-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/maker-prelaunch-page"
   },
   {
     "id": 23,
@@ -203,8 +203,8 @@
     "description": "A feature-rich landing page for a cloud storage service.",
     "image": "/landing-pages/fylo-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/flyo-landing-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/flyo-landing-page"
   },
   {
     "id": 24,
@@ -212,8 +212,8 @@
     "description": "A clean UI landing page for a community-building platform.",
     "image": "/landing-pages/huddle-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/huddle-landing-page",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/huddle-landing-page"
   },
   {
     "id": 25,
@@ -221,8 +221,8 @@
     "description": "A subscription launch page featuring email validation.",
     "image": "/landing-pages/ping-launch-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/ping-launch-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/ping-launch-page"
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "description": "A single recipe layout showing preparation steps and ingredients.",
     "image": "/landing-pages/recipe-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/recipe-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/recipe-page"
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "description": "A frequently-asked-questions section with interactive toggles.",
     "image": "/landing-pages/faq-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/faq-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/faq-page"
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "description": "A component that displays a list of articles with titles and summaries.",
     "image": "/ui-components/article-listing.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/article-listing/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/article-listing"
   },
   {
     "id": 29,
@@ -257,8 +257,8 @@
     "description": "A UI section highlighting key product features.",
     "image": "/ui-components/feature-section.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/feature-section/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/feature-section"
   },
   {
     "id": 30,
@@ -266,8 +266,8 @@
     "description": "A grid component that displays products with images and pricing.",
     "image": "/ui-components/product-listing.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/product-listing/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/product-listing"
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "description": "A component showcasing subscription pricing tiers.",
     "image": "/ui-components/pricing-table.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/pricing-table/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-table"
   },
   {
     "id": 32,
@@ -284,8 +284,8 @@
     "description": "A bento grid layout used to showcase multiple UI sections.",
     "image": "/ui-components/bento-box-layout.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/bento-feature/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/bento-feature"
   },
   {
     "id": 33,
@@ -293,8 +293,8 @@
     "description": "A checkout UI flow showing subscription details and payment summary.",
     "image": "/ui-components/subscription-checkout.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/subscription-checkout/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/subscription-checkout"
   },
   {
     "id": 34,
@@ -302,8 +302,8 @@
     "description": "A visual UI concept of a chat application interface.",
     "image": "/ui-components/chat-app-illustration.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/chat-app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/chat-app"
   },
   {
     "id": 35,
@@ -311,8 +311,8 @@
     "description": "An email subscription component with form validation.",
     "image": "/ui-components/newsletter.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/newsletter/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/newsletter"
   },
   {
     "id": 36,
@@ -320,8 +320,8 @@
     "description": "A feature card UI for presenting product highlights.",
     "image": "/ui-components/card-feature-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/card-feature-section/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/card-feature-section"
   },
   {
     "id": 37,
@@ -329,8 +329,8 @@
     "description": "A component displaying storage usage with visual indicators.",
     "image": "/ui-components/data-storage-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/flyo-data-storage/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/flyo-data-storage"
   },
   {
     "id": 38,
@@ -347,8 +347,8 @@
     "description": "A UI component showing pricing tiers for a service.",
     "image": "/ui-components/pricing-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/pricing-table/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-table"
   },
   {
     "id": 40,
@@ -356,8 +356,8 @@
     "description": "A testimonial card for showcasing user reviews.",
     "image": "/ui-components/testimonial-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/testimonials/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/testimonials"
   },
   {
     "id": 41,
@@ -365,8 +365,8 @@
     "description": "A rating UI component with stars and user feedback.",
     "image": "/ui-components/rating-card-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/interactive-rating-component/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/interactive-rating-component"
   },
   {
     "id": 42,
@@ -374,8 +374,8 @@
     "description": "A component showing social media icons or profile links.",
     "image": "/ui-components/social-links-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/social-links/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/social-links"
   },
   {
     "id": 43,
@@ -383,8 +383,8 @@
     "description": "A standalone contact form component with validations.",
     "image": "/ui-components/contact-page.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/contact-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/contact-page"
   },
   {
     "id": 44,
@@ -392,7 +392,7 @@
     "description": "A section showcasing customer stats, reviews, and trust signals.",
     "image": "/ui-components/social-proof-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/social-proof-section/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/social-proof-section"
   }
 ]

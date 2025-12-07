@@ -21,10 +21,10 @@ const About = () => {
               className="p-3 font-coiny text-5xl bg-linear-to-r from-(--coral-blue) to-(--faint-pink) bg-clip-text text-transparent"
           >
           Basics
-        </a> {" "} is a small showcase of the web experiments I built while sharpening my frontend foundations. 
+        </a> {" "} is a small showcase of the web experiments I built while sharpening my web foundations. 
         The projects range from simple layouts like a recipe page to more interactive pieces such as 
         a tic-tac-toe game. Every project was intentionally built with HTML5, CSS3, and Vanilla 
-        JavaScript to strengthen the essentials before jumping into larger frameworks.
+        JavaScript to strengthen the essentials before jumping into frameworks.
         </p>
         <div>
           <p>The projects are sourced from:</p>
