@@ -4,7 +4,7 @@ A curated collection of small web experiments built to strengthen core front-end
 
 *Live site*: **https://basics-showcase.vercel.app/**
 
-*Source Code:* https://github.com/njokinjeri/basics
+*Source Code:* **https://github.com/njokinjeri/basics**
 
 ## About
 
