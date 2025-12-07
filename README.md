@@ -12,9 +12,9 @@ Basics Showcase is a gallery of mini-projects built to refine my understanding o
 
 Many of the projects are inspired by or adapted from challenges on:
 
-Frontend Mentor — https://www.frontendmentor.io/
+[Frontend Mentor](https://www.frontendmentor.io/)
 
-Dev Challenges — https://devchallenges.io/
+[Dev Challenges](https://devchallenges.io/)
 
 
 **These platforms offer practical design briefs that support focused implementation practice.**
