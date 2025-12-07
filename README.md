@@ -1,6 +1,6 @@
 # Basics Showcase
 
-A curated collection of small web experiments built to strengthen core front-end foundations. Each project focuses on the essentials: HTML5, CSS3, and Vanilla JavaScript. No frameworks. No shortcuts. Just fundamentals practiced deliberately.
+A curated collection of small web experiments built to strengthen core front-end foundations. Each project focuses on the essentials: HTML5, CSS3, and Vanilla JavaScript.
 
 *Live site*: **https://basics-showcase.vercel.app/**
 
@@ -12,11 +12,12 @@ Basics Showcase is a gallery of mini-projects built to refine my understanding o
 
 Many of the projects are inspired by or adapted from challenges on:
 
-Frontend Mentor
+Frontend Mentor — https://www.frontendmentor.io/
 
-Dev Challenges
+Dev Challenges — https://devchallenges.io/
 
-*These platforms offer practical design briefs that support focused implementation practice.*
+
+**These platforms offer practical design briefs that support focused implementation practice.**
 
 ## Tech Stack
 
