@@ -338,8 +338,8 @@
     "description": "A digital bank card UI component with modern styling.",
     "image": "/ui-components/bank-card-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/interactive-bank-card/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/interactive-bank-card"
   },
   {
     "id": 39,
