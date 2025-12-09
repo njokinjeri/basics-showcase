@@ -344,11 +344,11 @@
   {
     "id": 39,
     "title": "Pricing Component",
-    "description": "A UI component showing pricing tiers for a service.",
+    "description": "A UI component showing pricing slider for a subscription.",
     "image": "/ui-components/pricing-component.webp",
     "tags": ["ui-component", "html", "css"],
-    "liveLink": "https://njokinjeri.github.io/basics/pricing-table/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-table"
+    "liveLink": "https://njokinjeri.github.io/basics/pricing-component/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-component"
   },
   {
     "id": 40,
