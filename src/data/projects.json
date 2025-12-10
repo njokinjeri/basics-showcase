@@ -181,10 +181,10 @@
   },
   {
     "id": 21,
-    "title": "Weather Landing Page",
-    "description": "A landing page that displays live weather data using an API.",
-    "image": "/landing-pages/weather-landing-page.webp",
-    "tags": ["landing-page", "api", "dynamic"],
+    "title": "Character Counter",
+    "description": "A simple tool that counts characters in real-time as you type.",
+    "image": "/utility/character-counter.webp",
+    "tags": ["utility", "interactive", "real-time"],
     "liveLink": "",
     "sourceCode": ""
   },
