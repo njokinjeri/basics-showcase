@@ -77,8 +77,8 @@
     "description": "A digital clock that shows time, day, and additional contextual info.",
     "image": "/utility/clock-app.webp",
     "tags": ["utility", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://bejewelled-shortbread-b8d056.netlify.app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/clock-app"
   },
   {
     "id": 10,
