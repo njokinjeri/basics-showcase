@@ -1,6 +1,6 @@
 # Basics Showcase
 
-A curated collection of small web experiments built to strengthen core front-end foundations. Each project focuses on the essentials: HTML5, CSS3, and Vanilla JavaScript.
+A curated collection of small web experiments built to strengthen core front-end foundations. Each project focuses on the essentials: HTML, CSS, and Vanilla JavaScript.
 
 *Live site*: **https://basics-showcase.vercel.app/**
 

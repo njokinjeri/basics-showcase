@@ -21,7 +21,7 @@ const About = () => {
           Basics
         </a> {" "} is a small showcase of the web experiments I built while sharpening my web foundations. 
         The projects range from simple layouts like a recipe page to more interactive pieces such as 
-        a tic-tac-toe game. Every project was intentionally built with HTML5, CSS3, and Vanilla 
+        a tic-tac-toe game. Every project was intentionally built with HTML, CSS, and Vanilla 
         JavaScript to strengthen the essentials before jumping into frameworks.
         </p>
         <div>
