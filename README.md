@@ -23,11 +23,13 @@ Many of the projects are inspired by or adapted from challenges on:
 
 ## Tech Stack
 
-HTML5 – semantic structure and accessibility
+- HTML: semantic structure and accessibility
 
-CSS3 – layout, styling, and responsive design
+- CSS: layout, styling, and responsive design
 
-JavaScript (ES6+) – DOM manipulation and interactivity
+- JavaScript: DOM manipulation and interactivity
+
+**Project-specific: Netlify for secure API handling**
 
 ## Structure
 
