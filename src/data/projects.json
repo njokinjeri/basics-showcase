@@ -122,8 +122,8 @@
     "description": "An audio player with controls and track information.",
     "image": "/utility/music-player.webp",
     "tags": ["component", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/music-player/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/music-player"
   },
   {
     "id": 15,
