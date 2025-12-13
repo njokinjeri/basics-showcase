@@ -140,8 +140,8 @@
     "description": "A UI component that allows users to upload and preview images.",
     "image": "/utility/image-uploader.webp",
     "tags": ["component", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/image-uploader/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/image-uploader"
   },
   {
     "id": 17,
