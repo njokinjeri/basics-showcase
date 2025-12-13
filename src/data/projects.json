@@ -72,13 +72,13 @@
     "sourceCode": ""
   },
   {
-    "id": 9,
-    "title": "Clock App",
-    "description": "A digital clock that shows time, day, and additional contextual info.",
-    "image": "/utility/clock-app.webp",
-    "tags": ["utility", "javascript", "html", "css"],
-    "liveLink": "https://bejewelled-shortbread-b8d056.netlify.app/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/clock-app"
+        "id": 9,
+    "title": "Character Counter",
+    "description": "A simple tool that counts characters in real-time as you type.",
+    "image": "/utility/character-counter.webp",
+    "tags": ["utility", "interactive", "real-time"],
+    "liveLink": "https://njokinjeri.github.io/basics/character-counter/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/character-counter"
   },
   {
     "id": 10,
@@ -145,12 +145,12 @@
   },
   {
     "id": 17,
-    "title": "Alarado Landing Page",
-    "description": "A modern landing page built with clean, responsive design.",
-    "image": "/landing-pages/alarado-landing-page.webp",
-    "tags": ["landing-page", "static"],
-    "liveLink": "https://njokinjeri.github.io/basics/alarado-homepage/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/alarado-homepage"
+    "title": "Clock App",
+    "description": "A digital clock that shows time, day, and additional contextual info.",
+    "image": "/utility/clock-app.webp",
+    "tags": ["utility", "javascript", "html", "css"],
+    "liveLink": "https://bejewelled-shortbread-b8d056.netlify.app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/clock-app"
   },
   {
     "id": 18,
@@ -163,12 +163,12 @@
   },
   {
     "id": 19,
-    "title": "Manage Landing Page",
-    "description": "A product management landing page with responsive layouts.",
-    "image": "/landing-pages/manage-landing-page.webp",
+    "title": "Maker Launch Landing Page",
+    "description": "A launch page design showcasing a new digital product.",
+    "image": "/landing-pages/maker-launch-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "https://njokinjeri.github.io/basics/manage-landing-page/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/manage-landing-page"
+    "liveLink": "https://njokinjeri.github.io/basics/maker-prelaunch-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/maker-prelaunch-page"
   },
   {
     "id": 20,
@@ -181,21 +181,21 @@
   },
   {
     "id": 21,
-    "title": "Character Counter",
-    "description": "A simple tool that counts characters in real-time as you type.",
-    "image": "/utility/character-counter.webp",
-    "tags": ["utility", "interactive", "real-time"],
-    "liveLink": "https://njokinjeri.github.io/basics/character-counter/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/character-counter"
+    "title": "Alarado Landing Page",
+    "description": "A modern landing page built with clean, responsive design.",
+    "image": "/landing-pages/alarado-landing-page.webp",
+    "tags": ["landing-page", "static"],
+    "liveLink": "https://njokinjeri.github.io/basics/alarado-homepage/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/alarado-homepage"
   },
   {
     "id": 22,
-    "title": "Maker Launch Landing Page",
-    "description": "A launch page design showcasing a new digital product.",
-    "image": "/landing-pages/maker-launch-page.webp",
+    "title": "Manage Landing Page",
+    "description": "A product management landing page with responsive layouts.",
+    "image": "/landing-pages/manage-landing-page.webp",
     "tags": ["landing-page", "static"],
-    "liveLink": "https://njokinjeri.github.io/basics/maker-prelaunch-page/",
-    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/maker-prelaunch-page"
+    "liveLink": "https://njokinjeri.github.io/basics/manage-landing-page/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/manage-landing-page"
   },
   {
     "id": 23,
