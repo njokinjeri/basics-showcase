@@ -131,8 +131,8 @@
     "description": "A component that converts user-typed text into speech.",
     "image": "/utility/text-to-speech.webp",
     "tags": ["component", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/text-to-speech-app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/text-to-speech-app"
   },
   {
     "id": 16,
