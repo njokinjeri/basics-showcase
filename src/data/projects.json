@@ -59,8 +59,8 @@
     "description": "An app that generates secure passwords based on selected criteria.",
     "image": "/utility/password-generator.webp",
     "tags": ["tool", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/password-generator/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/password-generator"
   },
   {
     "id": 8,
