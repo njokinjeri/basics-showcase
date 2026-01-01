@@ -68,11 +68,11 @@
     "description": "A tool that locates and displays information about an IP address on a map.",
     "image": "/utility/ip-address-tracker.webp",
     "tags": ["api", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://ip-address-tracker-demo.netlify.app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/ip-address-tracker"
   },
   {
-        "id": 9,
+    "id": 9,
     "title": "Character Counter",
     "description": "A simple tool that counts characters in real-time as you type.",
     "image": "/utility/character-counter.webp",
@@ -95,8 +95,8 @@
     "description": "A timer app that helps users manage work sessions using the Pomodoro technique.",
     "image": "/utility/pomodoro-app.webp",
     "tags": ["utility", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/pomodoro-app/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pomodoro-app"
   },
   {
     "id": 12,
@@ -149,7 +149,7 @@
     "description": "A digital clock that shows time, day, and additional contextual info.",
     "image": "/utility/clock-app.webp",
     "tags": ["utility", "javascript", "html", "css"],
-    "liveLink": "https://bejewelled-shortbread-b8d056.netlify.app/",
+    "liveLink": "https://clock-app-demo.netlify.app/",
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/clock-app"
   },
   {
