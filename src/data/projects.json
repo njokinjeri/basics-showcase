@@ -23,8 +23,8 @@
     "description": "A word-guessing challenge where users uncover hidden letters.",
     "image": "/games/guess-the-word.webp",
     "tags": ["game", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/guess-the-word-game/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/guess-the-word-game"
   },
   {
     "id": 4,
