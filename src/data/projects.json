@@ -32,8 +32,8 @@
     "description": "A classic tic tac toe game played against another player or the computer.",
     "image": "/games/tic-tac-toe.webp",
     "tags": ["game", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/tic-tac-toe-game/",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/tic-tac-toe-game"
   },
   {
     "id": 5,
