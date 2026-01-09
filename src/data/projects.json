@@ -37,15 +37,6 @@
   },
   {
     "id": 5,
-    "title": "Memory Game",
-    "description": "A card-matching memory challenge built with interactive UI logic.",
-    "image": "/games/memory-game.webp",
-    "tags": ["game", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
-  },
-  {
-    "id": 6,
     "title": "Hangman Game",
     "description": "A hangman word-guessing game with dynamic UI and animations.",
     "image": "/games/hangman-game.webp",
@@ -54,7 +45,7 @@
     "sourceCode": ""
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Password Generator App",
     "description": "An app that generates secure passwords based on selected criteria.",
     "image": "/utility/password-generator.webp",
@@ -63,7 +54,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/password-generator"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "IP Address Tracker",
     "description": "A tool that locates and displays information about an IP address on a map.",
     "image": "/utility/ip-address-tracker.webp",
@@ -72,7 +63,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/ip-address-tracker"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Character Counter",
     "description": "A simple tool that counts characters in real-time as you type.",
     "image": "/utility/character-counter.webp",
@@ -81,7 +72,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/character-counter"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Calculator App",
     "description": "A basic calculator supporting standard arithmetic operations.",
     "image": "/utility/calculator-app.webp",
@@ -90,7 +81,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/calculator-app"
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "Pomodoro App",
     "description": "A timer app that helps users manage work sessions using the Pomodoro technique.",
     "image": "/utility/pomodoro-app.webp",
@@ -99,7 +90,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pomodoro-app"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "Age Calculator",
     "description": "An app that calculates a user's age based on input date.",
     "image": "/utility/age-calculator.webp",
@@ -108,7 +99,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/age-calculator"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Tips Calculator",
     "description": "A tool for calculating tips and splitting bills.",
     "image": "/utility/tips-calculator.webp",
@@ -117,7 +108,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/tips-calculator"
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Music Player Component",
     "description": "An audio player with controls and track information.",
     "image": "/utility/music-player.webp",
@@ -126,7 +117,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/music-player"
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "Text to Speech Component",
     "description": "A component that converts user-typed text into speech.",
     "image": "/utility/text-to-speech.webp",
@@ -135,7 +126,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/text-to-speech-app"
   },
   {
-    "id": 16,
+    "id": 15,
     "title": "Image Uploader Component",
     "description": "A UI component that allows users to upload and preview images.",
     "image": "/utility/image-uploader.webp",
@@ -144,7 +135,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/image-uploader"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "Clock App",
     "description": "A digital clock that shows time, day, and additional contextual info.",
     "image": "/utility/clock-app.webp",
@@ -153,7 +144,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/clock-app"
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "Hufie Landing Page",
     "description": "A sleek landing page concept focusing on product presentation.",
     "image": "/landing-pages/hufie-landing-page.webp",
@@ -162,7 +153,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/hufie-homepage"
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "Maker Launch Landing Page",
     "description": "A launch page design showcasing a new digital product.",
     "image": "/landing-pages/maker-launch-page.webp",
@@ -171,7 +162,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/maker-prelaunch-page"
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "Space Tourism Multi-page",
     "description": "A multi-page site about space tourism with dynamic navigation.",
     "image": "/landing-pages/space-tourism-page.webp",
@@ -180,7 +171,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/space-tourism-site"
   },
   {
-    "id": 21,
+    "id": 20,
     "title": "Alarado Landing Page",
     "description": "A modern landing page built with clean, responsive design.",
     "image": "/landing-pages/alarado-landing-page.webp",
@@ -189,7 +180,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/alarado-homepage"
   },
   {
-    "id": 22,
+    "id": 21,
     "title": "Manage Landing Page",
     "description": "A product management landing page with responsive layouts.",
     "image": "/landing-pages/manage-landing-page.webp",
@@ -198,7 +189,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/manage-landing-page"
   },
   {
-    "id": 23,
+    "id": 22,
     "title": "Fylo Landing Page",
     "description": "A feature-rich landing page for a cloud storage service.",
     "image": "/landing-pages/fylo-landing-page.webp",
@@ -207,7 +198,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/flyo-landing-page"
   },
   {
-    "id": 24,
+    "id": 23,
     "title": "Huddle Landing Page",
     "description": "A clean UI landing page for a community-building platform.",
     "image": "/landing-pages/huddle-landing-page.webp",
@@ -216,7 +207,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/huddle-landing-page"
   },
   {
-    "id": 25,
+    "id": 24,
     "title": "Ping Launch Page",
     "description": "A subscription launch page featuring email validation.",
     "image": "/landing-pages/ping-launch-page.webp",
@@ -225,7 +216,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/ping-launch-page"
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "Recipe Page",
     "description": "A single recipe layout showing preparation steps and ingredients.",
     "image": "/landing-pages/recipe-page.webp",
@@ -234,7 +225,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/recipe-page"
   },
   {
-    "id": 27,
+    "id": 26,
     "title": "FAQ Page",
     "description": "A frequently-asked-questions section with interactive toggles.",
     "image": "/landing-pages/faq-page.webp",
@@ -243,7 +234,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/faq-page"
   },
   {
-    "id": 28,
+    "id": 27,
     "title": "Article Listing Component",
     "description": "A component that displays a list of articles with titles and summaries.",
     "image": "/ui-components/article-listing.webp",
@@ -252,7 +243,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/article-listing"
   },
   {
-    "id": 29,
+    "id": 28,
     "title": "Feature Section Component",
     "description": "A UI section highlighting key product features.",
     "image": "/ui-components/feature-section.webp",
@@ -261,7 +252,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/feature-section"
   },
   {
-    "id": 30,
+    "id": 29,
     "title": "Product Listing Component",
     "description": "A grid component that displays products with images and pricing.",
     "image": "/ui-components/product-listing.webp",
@@ -270,7 +261,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/product-listing"
   },
   {
-    "id": 31,
+    "id": 30,
     "title": "Pricing Table Component",
     "description": "A component showcasing subscription pricing tiers.",
     "image": "/ui-components/pricing-table.webp",
@@ -279,7 +270,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-table"
   },
   {
-    "id": 32,
+    "id": 31,
     "title": "Bento Box Component",
     "description": "A bento grid layout used to showcase multiple UI sections.",
     "image": "/ui-components/bento-box-layout.webp",
@@ -288,7 +279,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/bento-feature"
   },
   {
-    "id": 33,
+    "id": 32,
     "title": "Subscription Checkout Component",
     "description": "A checkout UI flow showing subscription details and payment summary.",
     "image": "/ui-components/subscription-checkout.webp",
@@ -297,7 +288,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/subscription-checkout"
   },
   {
-    "id": 34,
+    "id": 33,
     "title": "Chat App Illustration",
     "description": "A visual UI concept of a chat application interface.",
     "image": "/ui-components/chat-app-illustration.webp",
@@ -306,7 +297,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/chat-app"
   },
   {
-    "id": 35,
+    "id": 34,
     "title": "Newsletter Component",
     "description": "An email subscription component with form validation.",
     "image": "/ui-components/newsletter.webp",
@@ -315,7 +306,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/newsletter"
   },
   {
-    "id": 36,
+    "id": 35,
     "title": "Card Feature Component",
     "description": "A feature card UI for presenting product highlights.",
     "image": "/ui-components/card-feature-component.webp",
@@ -324,7 +315,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/card-feature-section"
   },
   {
-    "id": 37,
+    "id": 36,
     "title": "Data Storage Component",
     "description": "A component displaying storage usage with visual indicators.",
     "image": "/ui-components/data-storage-component.webp",
@@ -333,7 +324,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/flyo-data-storage"
   },
   {
-    "id": 38,
+    "id": 37,
     "title": "Bank Card Component",
     "description": "A digital bank card UI component with modern styling.",
     "image": "/ui-components/bank-card-component.webp",
@@ -342,7 +333,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/interactive-bank-card"
   },
   {
-    "id": 39,
+    "id": 38,
     "title": "Pricing Component",
     "description": "A UI component showing pricing slider for a subscription.",
     "image": "/ui-components/pricing-component.webp",
@@ -351,7 +342,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/pricing-component"
   },
   {
-    "id": 40,
+    "id": 39,
     "title": "Testimonial Component",
     "description": "A testimonial card for showcasing user reviews.",
     "image": "/ui-components/testimonial-component.webp",
@@ -360,7 +351,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/testimonials"
   },
   {
-    "id": 41,
+    "id": 40,
     "title": "Rating Card Component",
     "description": "A rating UI component with stars and user feedback.",
     "image": "/ui-components/rating-card-component.webp",
@@ -369,7 +360,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/interactive-rating-component"
   },
   {
-    "id": 42,
+    "id": 41,
     "title": "Social Links Component",
     "description": "A component showing social media icons or profile links.",
     "image": "/ui-components/social-links-component.webp",
@@ -378,7 +369,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/social-links"
   },
   {
-    "id": 43,
+    "id": 42,
     "title": "Contact Page Component",
     "description": "A standalone contact form component with validations.",
     "image": "/ui-components/contact-page.webp",
@@ -387,7 +378,7 @@
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/contact-page"
   },
   {
-    "id": 44,
+    "id": 43,
     "title": "Social Proof Component",
     "description": "A section showcasing customer stats, reviews, and trust signals.",
     "image": "/ui-components/social-proof-component.webp",
