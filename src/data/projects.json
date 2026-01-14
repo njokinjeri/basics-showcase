@@ -14,7 +14,7 @@
     "description": "A digital version of the classic Connect Four strategy game.",
     "image": "/games/connect-four-game.webp",
     "tags": ["game", "javascript", "html", "css"],
-    "liveLink": "",
+    "liveLink": "https://njokinjeri.github.io/basics/connect-four-game",
     "sourceCode": "https://github.com/njokinjeri/basics/tree/main/connect-four-game"
   },
   {
