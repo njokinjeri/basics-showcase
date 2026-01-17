@@ -5,8 +5,8 @@
     "description": "A simple game where users play rock–paper–scissors against the computer.",
     "image": "/games/rock-paper-scissors-game.webp",
     "tags": ["game", "javascript", "html", "css"],
-    "liveLink": "",
-    "sourceCode": ""
+    "liveLink": "https://njokinjeri.github.io/basics/rock-paper-scissors-game",
+    "sourceCode": "https://github.com/njokinjeri/basics/tree/main/rock-paper-scissors-game"
   },
   {
     "id": 2,
